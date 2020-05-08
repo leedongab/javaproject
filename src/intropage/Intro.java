@@ -20,7 +20,7 @@ public class Intro extends JFrame {
 	private JPanel jp;
 
 
-	public Intro() {
+	public Intro() { //한번 봅시다
 
 		super("Movie Development Program_Intro");
 		// 프로그램 이름
